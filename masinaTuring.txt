@@ -1,0 +1,12 @@
+q0
+q5
+q0_  R_q1
+q1_a R_q2
+q1_  L_q5
+q2_aaR_q2
+q2_bbR_q2
+q2_  L_q3
+q3_b L_q4
+q4_aaL_q4
+q4_bbL_q4
+q4_  R_q1
